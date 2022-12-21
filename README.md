@@ -32,6 +32,6 @@
       <img width="25" src="instagram.png">
     </a>
     <a href = "https://twitter.com/GunterFPS">
-    <img width="25" src="download.png">
+    <img width="25" src="twitter.png">
     </a>
 </div>
