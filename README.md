@@ -16,8 +16,7 @@
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    </div>
 
-
-  <div>
+<div>
     <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: joaopedrocb2@gmail.com">
       <img width="30" src="gmail.svg">
@@ -35,3 +34,4 @@
     <img width="25" src="twitter.png">
     </a>
 </div>
+    ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
