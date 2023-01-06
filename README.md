@@ -1,4 +1,4 @@
-## Faaaala dev, Kawaru Aqui!
+## Faaaala dev, Kawaru2 Aqui!
 
 <div >
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kawaru2&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
