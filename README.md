@@ -1,9 +1,7 @@
 ## Faaaala dev, Kawaru2 Aqui!
-
-<div >
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kawaru2&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawaru2&layout=compact&langs_count=16&theme=radical"/>
-</div>
+--<br>
+--<br>
+--<br>
 
 ## Codar é um modo de pensar
 
