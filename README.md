@@ -49,12 +49,12 @@ Gosto de transformar ideias em projetos reais, com foco em usabilidade, design m
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kawaru2&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawaru2&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kawaru2&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -80,14 +80,14 @@ Estou focado em:
 ## 📫 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU_PERFIL/">
+  <a href="https://www.linkedin.com/in/joaopedrocb2/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:SEU_EMAIL@exemplo.com">
+  <a href="mailto:softdeev2@exemplo.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visualizações+do+perfil&color=FF4D6D&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kawaru2&label=Visualizações+do+perfil&color=FF4D6D&style=flat" alt="Profile views" />
 </p>
