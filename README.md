@@ -50,8 +50,8 @@ Gosto de transformar ideias em projetos reais, com foco em usabilidade, design m
 
 <p align="center">
   <img src="https://img.shields.io/badge/Projetos-3%2B-FF4D6D?style=for-the-badge" alt="Projetos" />
-  <img src="https://img.shields.io/badge/Front-end-React-61DAFB?style=for-the-badge" alt="Front-end React" />
-  <img src="https://img.shields.io/badge/Estilo-UI%2FUX-00C7B7?style=for-the-badge" alt="Estilo UIUX" />
+  <img src="https://img.shields.io/badge/React-Developer-61DAFB?style=for-the-badge" alt="React" />
+  <img src="https://img.shields.io/badge/UI%2FUX-Design-00C7B7?style=for-the-badge" alt="UI/UX Design" />
   <img src="https://img.shields.io/badge/Aprendizado-Cont%C3%ADnuo-FFD166?style=for-the-badge" alt="Aprendizado contínuo" />
 </p>
 
@@ -83,7 +83,7 @@ Estou focado em:
   <a href="https://www.linkedin.com/in/joaopedrocb2/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:softdeev2@exemplo.com">
+  <a href="mailto:softdeev2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
