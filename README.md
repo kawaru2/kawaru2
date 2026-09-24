@@ -40,8 +40,8 @@ Gosto de transformar ideias em projetos reais, com foco em usabilidade, design m
 
 ## 📌 Projetos em destaque
 
-- [Moview](https://github.com/kawaru2/Moview) — aplicação de catálogo de filmes com interface moderna e interações em React.
-- [Cardapio-ta-na-mao](https://github.com/kawaru2/projeto-ta-na-mao) — aplicação de catálogo de pratos para um restaurante.
+- [Moview](https://github.com/kawaru2/projetomoview) — aplicação de catálogo de filmes com interface moderna e interações em React.
+- [Cardapio-ta-na-mao](https://github.com/kawaru2/projeto-cardapio-ta-na-mao) — aplicação de catálogo de pratos para um restaurante.
 - [Popular Movies](https://kawaru2.github.io/desafio7DaysOfCodePopularMovies/) — desafio de construir uma aplicação utilizando somente JS e consumindo uma API para entregar os filmes mais populares no momento.
 
 ---
