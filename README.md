@@ -46,24 +46,24 @@ Gosto de transformar ideias em projetos reais, com foco em usabilidade, design m
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Perfil em evolução
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kawaru2&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawaru2&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Projetos-3%2B-FF4D6D?style=for-the-badge" alt="Projetos" />
+  <img src="https://img.shields.io/badge/Front-end-React-61DAFB?style=for-the-badge" alt="Front-end React" />
+  <img src="https://img.shields.io/badge/Estilo-UI%2FUX-00C7B7?style=for-the-badge" alt="Estilo UIUX" />
+  <img src="https://img.shields.io/badge/Aprendizado-Cont%C3%ADnuo-FFD166?style=for-the-badge" alt="Aprendizado contínuo" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kawaru2&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+> Estou sempre criando, aprendendo e refinando as interfaces para entregar experiências melhores.
 
 ---
 
 ## 🏆 Contribuições e trajetória
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kawaru2&theme=darkhub&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
-</p>
+- Desenvolvendo interfaces modernas com React e JavaScript.
+- Construindo projetos com foco em clareza visual e experiência do usuário.
+- Evoluindo constantemente em front-end, lógica e design de interfaces.
 
 ---
 
